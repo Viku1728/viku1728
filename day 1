@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int T; // Number of test cases
+    cin >> T;
+    
+    while (T--) {
+        int X, Y;
+        cin >> X >> Y;
+        
+        // Calculate the total number of working hours in one week
+        int total_hours = 4 * X + Y;
+        
+        // Output the result
+        cout << total_hours << endl;
+    }
+    
+    return 0;
+}
