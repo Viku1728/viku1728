@@ -1,0 +1,30 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+int me(vector <int> &nums){
+    int n= nums.size();
+    for (int i : nums)
+    {
+        /* code */
+        int frequency =0;
+     
+        for (int j: nums)
+       {
+        /* code */
+        if(i==j){
+        frequency++;
+        }
+      }
+       if (frequency > n/2)
+    {
+        return i;
+    }
+    }
+    
+}
+int main()
+{
+    vector<int>nums= {1,2,3,1,1};
+    cout<<"najority ellement "<<me(nums);
+    return 0;
+}
