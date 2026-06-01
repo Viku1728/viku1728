@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Kumar
 
-<!--
-**Viku1728/viku1728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- React.js
+- MongoDB
+- System Design
+
+🔥 Projects:
+- Smart Hospital Queue Management System
+- AI Medical Report Visualization
+- Student Management System
+
+📫 Connect With Me:
+LinkedIn: YOUR_LINKEDIN
+Email: YOUR_EMAIL
